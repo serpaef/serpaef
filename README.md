@@ -1,4 +1,6 @@
-### Ei, cara! 👋
+[![serpaef's GitHub stats](https://github-readme-stats.vercel.app/api?username=serpaef)](https://github.com/anuraghazra/github-readme-stats)
+
+## Ei, cara! 👋
 
 > ”Tudo o que você realmente precisa saber no momento é que o universo é muito mais complicado do que se poderia pensar, mesmo se você começar a partir de uma posição já pensando que ele é muito complicado”
 >> *Douglas Adams - O Guia do Mochileiro das Galáxias*
@@ -11,7 +13,7 @@ _Pô, Serpa, que mudança profissional louca, de dança de salão para programa�
 Bom, é isso mesmo. Como eu disse, eu sou apaixonado por coisas complicadas. Se alguém me diz que _não é pra qualquer um_, eu logo penso: **É pra mim**. E dançar com idosos me ajudou a desenvolver uma soft skill vital para ser um bom profissional: **Empatia**.
 Desenvolver software é sanar uma dor que muitas vezes nem quem tem entende qual é. Resolver um cubo mágico é legal, mas você já impactou a vida de uma pessoa? É maravilhoso!
 
-## Quer saber mais coisas sobre mim?
+### Quer saber mais coisas sobre mim?
 
 - As tecnologias que trabalho hoje são:
   - HTML5 e CSS3
@@ -30,7 +32,6 @@ Desenvolver software é sanar uma dor que muitas vezes nem quem tem entende qual
 
 ### Vamos bater um papo?
 <a href="https://linkedin.com/in/serpaef"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-[![serpaef's GitHub stats](https://github-readme-stats.vercel.app/api?username=serpaef)](https://github.com/anuraghazra/github-readme-stats)
 
 
 <!--
