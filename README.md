@@ -19,11 +19,11 @@ Desenvolver software é sanar uma dor que muitas vezes nem quem tem entende qual
   - HTML5 e CSS3
   - JavaScript (ES6+)
   - React (+Redux, +Hooks)
-  - Versionamento com Git e Github.
   - Bibliotecas de estilização como Bootstrap e MaterialUI.
   - MySQL
   - Node.js com express e sequelize
   - Arquitetura Rest
+  - Versionamento com Git e Github.
 
 ### Vamos bater um papo?
 <a href="https://linkedin.com/in/serpaef"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
