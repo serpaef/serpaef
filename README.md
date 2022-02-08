@@ -21,14 +21,9 @@ Desenvolver software é sanar uma dor que muitas vezes nem quem tem entende qual
   - React (+Redux, +Hooks)
   - Versionamento com Git e Github.
   - Bibliotecas de estilização como Bootstrap e MaterialUI.
-
-- O que estou estudando no momento:
-  - MySQL, MongoDB, GraphQL
-  - Node.js
-  - Camada de Serviço
-  - Arquitetura Rest e Restful
-  - Arquitetura SOLID e ORM
-  - Sockets
+  - MySQL
+  - Node.js com express e sequelize
+  - Arquitetura Rest
 
 ### Vamos bater um papo?
 <a href="https://linkedin.com/in/serpaef"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
