@@ -1,16 +1,15 @@
 <a href="https://linkedin.com/in/serpaef"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 ## Ei, cara! 👋
 
+Meu nome é **Fernando Serpa**
+
+- 🔭 Hoje estou trabalhando em 2 projetos pessoais: Um administrador de finanças e um projeto de mentoria que simula squad com clientes. 
+- 🌱 Estou estudando MUITO backend. Em ferramentas, estou me dedicando a TypeScript com TypeORM.
+- 📫 Se quiser entrar em contato comigo, o caminho mais rápido é:<a href="https://linkedin.com/in/serpaef"> Pelo LinkedIn </a> ou me mande um email: serpaef@outlook.com 
+- ⚡ Fun fact: Minha trajetória é um tanto diversa, desde fazer e vender artesanatos na adolescência até ser dono de um estúdio de dança de salão.
+
 > ”Tudo o que você realmente precisa saber no momento é que o universo é muito mais complicado do que se poderia pensar, mesmo se você começar a partir de uma posição já pensando que ele é muito complicado”
 >> *Douglas Adams - O Guia do Mochileiro das Galáxias*
-
-Meu nome é **Fernando Serpa**, um cara apaixonado por coisas complicadas - e isso explica porque vim para a programação, certo?
-Minha trajetória é um tanto diversa, desde fazer e vender artesanatos na adolescência até ser dono de um estúdio de dança de salão (minha experiência mais atual), e cara, é incrível como quanto mais você conhece algo, mais assustadoramente _complicado e apaixonante_ fica.
-
-_Pô, Serpa, que mudança profissional louca, de dança de salão para programação..._
-
-Bom, é isso mesmo. Como eu disse, eu sou apaixonado por coisas complicadas. Se alguém me diz que _não é pra qualquer um_, eu logo penso: **É pra mim**. E dançar com idosos me ajudou a desenvolver uma soft skill vital para ser um bom profissional: **Empatia**.
-Desenvolver software é sanar uma dor que muitas vezes nem quem tem entende qual é. Resolver um cubo mágico é legal, mas você já impactou a vida de uma pessoa? É maravilhoso!
 
 ### Ferramentas e tecnologias:
 <div style="display: inline_block"><br>
@@ -33,7 +32,7 @@ Desenvolver software é sanar uma dor que muitas vezes nem quem tem entende qual
 ### Github Stats
 
 [![serpaef's GitHub stats](https://github-readme-stats.vercel.app/api?username=serpaef&count_private=true))](https://github.com/anuraghazra/github-readme-stats)
-
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=serpaef&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
 <!--
 **serpaef/serpaef** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
