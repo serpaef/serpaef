@@ -3,9 +3,9 @@
 
 Meu nome é **Fernando Serpa**
 
-- 🔭 Hoje estou trabalhando em 2 projetos pessoais: Um administrador de finanças e um projeto de mentoria que simula squad com clientes. 
-- 🌱 Estou estudando MUITO backend. Em ferramentas, estou me dedicando a TypeScript com TypeORM.
-- 📫 Se quiser entrar em contato comigo, o caminho mais rápido é:<a href="https://linkedin.com/in/serpaef"> Pelo LinkedIn </a> ou me mande um email: serpaef@outlook.com 
+- 🔭 OTW! Busco um emprego na área de backend, acha que tenho o perfil? Me chama. 
+- 🌱 Hoje estudo na Trybe, e estou começando a brincar com Java por fora.
+- 📫 Se quiser entrar em contato comigo, o caminho mais rápido é <a href="https://linkedin.com/in/serpaef"> Pelo LinkedIn </a> ou me mandando um email: serpaef@outlook.com
 - ⚡ Fun fact: Minha trajetória é um tanto diversa, desde fazer e vender artesanatos na adolescência até ser dono de um estúdio de dança de salão.
 
 > ”Tudo o que você realmente precisa saber no momento é que o universo é muito mais complicado do que se poderia pensar, mesmo se você começar a partir de uma posição já pensando que ele é muito complicado”
@@ -31,7 +31,9 @@ Meu nome é **Fernando Serpa**
 
 ### Github Stats
 
-[![serpaef's GitHub stats](https://github-readme-stats.vercel.app/api?username=serpaef&count_private=true&show_icons=true&theme=great-gatsby)](https://github.com/anuraghazra/github-readme-stats)<br>
+[![serpaef's GitHub stats](https://github-readme-stats.vercel.app/api?username=serpaef&count_private=true&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=serpaef&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
 
 <!--
 **serpaef/serpaef** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
