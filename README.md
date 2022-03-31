@@ -3,7 +3,7 @@
 
 Meu nome é **Fernando Serpa**
 
-- 🔭 OTW! Busco um emprego na área de backend, acha que tenho o perfil? Me chama. 
+- 🔭 OTW! Busco um emprego na área de backend, acha que tenho o perfil? Me chama! 
 - 🌱 Hoje estudo na Trybe, e estou começando a brincar com Java por fora.
 - 📫 Se quiser entrar em contato comigo, o caminho mais rápido é <a href="https://linkedin.com/in/serpaef"> Pelo LinkedIn </a> ou me mandando um email: serpaef@outlook.com
 - ⚡ Fun fact: Minha trajetória é um tanto diversa, desde fazer e vender artesanatos na adolescência até ser dono de um estúdio de dança de salão.
