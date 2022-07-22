@@ -3,8 +3,8 @@
 
 Meu nome é **Fernando Serpa**
 
-- 🔭 OTW! Busco um emprego na área de backend, acha que tenho o perfil? Me chama! 
-- 🌱 Hoje estudo na Trybe, e estou começando a brincar com Java por fora.
+- 🔭 OTW! Busco um emprego como desenvolvedor fullstack ou back-end, acha que tenho o perfil? Me chama! 
+- 🌱 Concluí meus estudos na Trybe em Julho de 2022, hoje belisco um pouquinho de cada ferramenta porque é gostoso :D.
 - 📫 Se quiser entrar em contato comigo, o caminho mais rápido é <a href="https://linkedin.com/in/serpaef"> Pelo LinkedIn </a> ou me mandando um email: serpaef@outlook.com
 - ⚡ Fun fact: Minha trajetória é um tanto diversa, desde fazer e vender artesanatos na adolescência até ser dono de um estúdio de dança de salão.
 
@@ -35,6 +35,7 @@ Meu nome é **Fernando Serpa**
   <img src="https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white" />
   <img src="https://img.shields.io/badge/Material%20UI-007FFF?style=for-the-badge&logo=mui&logoColor=white" />
   <img src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue" />
 </div>
 
 ### Github Stats
