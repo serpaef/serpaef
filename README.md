@@ -3,7 +3,7 @@
 
 Meu nome é **Fernando Serpa**
 
-- 🔭 Hoje trabalho como Trainee de Desenvolvimento e Inovação na TechEdge Brasil!
+- 🔭 Hoje trabalho como Trainee de Desenvolvimento e Inovação na Avvale Brasil!
 - 🌱 Concluí meus estudos na Trybe em Julho de 2022, hoje estudo C#, que é a ferramenta que uso no trabalho.
 - 📫 Se quiser entrar em contato comigo, o caminho mais rápido é <a href="https://linkedin.com/in/serpaef"> Pelo LinkedIn </a> ou me mandando um email: serpaef@outlook.com
 - ⚡ Fun fact: Minha trajetória é um tanto diversa, desde fazer e vender artesanatos na adolescência até ser dono de um estúdio de dança de salão.
