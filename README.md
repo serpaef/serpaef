@@ -4,7 +4,7 @@
 Meu nome é **Fernando Serpa**
 
 - 🔭 Hoje trabalho como Desenvolvedor na Avvale Brasil!
-- 🌱 Concluí meus estudos na Trybe em Julho de 2022, hoje estou no terceiro período do bacharelado de Ciências da Computação.
+- 🌱 Concluí meus estudos na Trybe em Julho de 2022, hoje estou cursando o bacharelado de Ciências da Computação, com previsão de formatura em 2026.
 - 📫 Se quiser entrar em contato comigo, o caminho mais rápido é <a href="https://linkedin.com/in/serpaef"> Pelo LinkedIn </a> ou me mandando um email: serpaef@outlook.com
 - ⚡ Fun fact: Minha trajetória é um tanto diversa, desde fazer e vender artesanatos na adolescência até ser dono de um estúdio de dança de salão.
 
