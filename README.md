@@ -1,21 +1,19 @@
 ## 👋 Hi, I'm Fernando Serpa
 
-🚀 I'm a FullStack Developer passionate about clean code, automation, and scalable solutions.  
-🌐 I'm currently expanding my skills in **DevOps** and **Cloud Infrastructure**, working with tools like **Azure DevOps**, **Docker**, and **GitHub Actions**.
+I'm a FullStack Developer passionate about architecture and engaging products
 
 ### 🛠 Tech Stack
 - **Languages:** C#, JavaScript, Python, Bash  
 - **Backend:** .NET, Node.js, Sequelize  
 - **Frontend:** React, React Native  
-- **DevOps & Cloud:** Docker, GitHub Actions, Terraform, Azure  
+- **DevOps & Cloud:** Docker, GitHub Actions, Terraform, Azure, AWS
 - **Tools & Others:** Linux, Git, PostgreSQL, MongoDB
 
 ### 💼 Current Role
-Working at **Avvale** as a FullStack Developer, building and maintaining web apps in C#/.NET and chatbots in JavaScript.
+Working at **Bonifiq** as a Back-End Developer, building and maintaining a very cool Loyalty app in C#/.NET.
 
 ### 🌱 Learning & Building
-- Improving my DevOps skills with IaC tools  
-- Experimenting with CI/CD pipelines
+- Software Architecture and Product Design
 
 ---
 
